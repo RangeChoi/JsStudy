@@ -19,6 +19,5 @@
 ## 学习资料
 
 1. https://zh.javascript.info/
-
 2、JavaScript高级程序设计
 3、JavaScript DOM编程艺术
